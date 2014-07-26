@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\JavaScript\Player\Damping.js">
+    <Files>
+      <File FileName="Assets\Script\JavaScript\Camera.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\JavaScript\Camera.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\JavaScript\Player\Platform.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\JavaScript\Player\Motor.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\JavaScript\Player\Damping.js" Line="24" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
